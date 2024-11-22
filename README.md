@@ -35,18 +35,12 @@ This is a solution to the [Article Preview Component challenge on Frontend Mento
 - Google Fonts
 - Git & GitHub
 
-### What I learned
-
-I visit [w3schools](https://www.w3schools.com/cssref/css3_pr_border-radius.php) to remember the use of css property `border-radius`. 
-
-
 ### Useful resources
 
+- [Responsively](https://responsively.app/): A best browser for develop responsive webs.
 - [Google Fonts](https://fonts.google.com/): Provide beatiful fonts to integrate in your web sites.
 - [CSS examples](https://github.com/lsvekis/HTML-CSS-Exercises-Book): Simple but powerful examples that improve my CSS skills.
 - [w3schools](https://www.w3schools.com): Great resource that provide several examples of HTML & CSS.
-
-
 
 ## Author
 
