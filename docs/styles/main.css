@@ -1,0 +1,42 @@
+/* TODO: add reference to w3cschool */
+
+.main-content {
+    grid-column: 1 / 5;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-content img {
+    max-inline-size: 100%;
+}
+
+.main-content > .text-content {
+    background-color: var(--white);
+    padding: 3.6rem 3.2rem 2rem 3.2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+@media (min-width: 23.4375rem) {
+    .main-content img {
+        border-radius: 10px 10px 0 0;
+    }
+
+    .main-content > .text-content {
+        border-radius: 0 0 10px 10px;
+    }
+}
+
+@media (min-width: 43.75rem) {
+    .main-content {
+        grid-column: 1 / 9;
+    }
+}
+
+@media (min-width: 62.5rem) {
+    .main-content {
+        grid-column: 3 / 11;
+        flex-direction: row;
+    }
+}

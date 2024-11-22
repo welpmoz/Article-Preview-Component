@@ -1,0 +1,19 @@
+.txt-very-dark-grayish-blue {
+    color: var(--very-dark-grayish-blue);
+}
+
+.txt-desaturated-dark-blue {
+    color: var(--desaturated-dark-blue);
+}
+
+.txt-grayish-blue {
+    color: var(--grayish-blue);
+}
+
+.txt-light-grayish-blue {
+    color: var(--light-grayish-blue);
+}
+
+.txt-white {
+    color: var(--white);
+}
