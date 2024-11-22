@@ -5,7 +5,7 @@ This is a solution to the [Article Preview Component challenge on Frontend Mento
 ## Table of contents
 
 - [Overview](#overview)
-  <!-- - [Screenshot](#screenshot) -->
+  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -16,24 +16,26 @@ This is a solution to the [Article Preview Component challenge on Frontend Mento
 
 ## Overview
 
-<!-- ### Screenshot
+### Screenshot
 
-![](./solution.png) -->
+![](./solution.png)
 
 ### Links
 
 - Solution URL: [GitHub repository](https://github.com/welpmoz/Article-Preview-Component).
-<!-- - Live Site URL: [Live site](https://welpmoz.github.io/Testimonial-Grid-Section/) -->
+- Live Site URL: [Live site](https://welpmoz.github.io/Article-Preview-Component/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
+- Javascript
 - CSS variables
 - Class based CSS styles
 - Google Fonts
 - Git & GitHub
+- Mobile and Desktop first approach
 
 ### Useful resources
 
