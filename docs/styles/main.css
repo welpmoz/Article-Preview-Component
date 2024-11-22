@@ -1,13 +1,7 @@
-/* TODO: add reference to w3cschool */
-
 .main-content {
     grid-column: 1 / 5;
     display: flex;
     flex-direction: column;
-}
-
-.main-content img {
-    max-inline-size: 100%;
 }
 
 .main-content > .text-content {
@@ -16,6 +10,18 @@
     display: flex;
     flex-direction: column;
     gap: 1.2rem;
+}
+
+.main-content > .img-wrapper {
+    height: 23rem;
+    overflow: hidden;
+}
+
+.main-content > .img-wrapper img {
+    max-inline-size: 100%;
+    block-size: auto;
+    aspect-ratio: 660 / 528;
+    object-fit: cover;
 }
 
 @media (min-width: 23.4375rem) {
@@ -32,6 +38,10 @@
     .main-content {
         grid-column: 1 / 9;
     }
+
+    .main-content > .img-wrapper {
+        height: 30rem;
+    }
 }
 
 @media (min-width: 62.5rem) {
@@ -40,11 +50,17 @@
         flex-direction: row;
     }
 
-    .main-content img {
+    .main-content > .img-wrapper {
+        flex: 4;
+    }
+
+    .main-content > .img-wrapper  img {
         border-radius: 10px 0 0 10px;
+        height: 100%;
     }
 
     .main-content .text-content {
+        flex: 6;
         border-radius: 0 10px 10px 0;
     }
 }
