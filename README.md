@@ -1,28 +1,29 @@
-# Frontend Mentor - Meet landing page
+# Frontend Mentor - Article preview component
 
-This is a solution to the [Meet Landing Page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/meet-landing-page-rbTDS6OUR). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Article Preview Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  <!-- - [Screenshot](#screenshot) -->
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
 
-### Screenshot
+<!-- ### Screenshot
 
-![](./solution.png)
+![](./solution.png) -->
 
 ### Links
 
-- Solution URL: [GitHub repository](https://github.com/welpmoz/Testimonial-Grid-Section).
-- Live Site URL: [Live site](https://welpmoz.github.io/Testimonial-Grid-Section/)
+- Solution URL: [GitHub repository](https://github.com/welpmoz/Article-Preview-Component).
+<!-- - Live Site URL: [Live site](https://welpmoz.github.io/Testimonial-Grid-Section/) -->
 
 ## My process
 
@@ -34,11 +35,16 @@ This is a solution to the [Meet Landing Page challenge on Frontend Mentor](https
 - Google Fonts
 - Git & GitHub
 
+### What I learned
+
+I visit [w3schools](https://www.w3schools.com/cssref/css3_pr_border-radius.php) to remember the use of css property `border-radius`. 
+
 
 ### Useful resources
 
 - [Google Fonts](https://fonts.google.com/): Provide beatiful fonts to integrate in your web sites.
 - [CSS examples](https://github.com/lsvekis/HTML-CSS-Exercises-Book): Simple but powerful examples that improve my CSS skills.
+- [w3schools](https://www.w3schools.com): Great resource that provide several examples of HTML & CSS.
 
 
 
