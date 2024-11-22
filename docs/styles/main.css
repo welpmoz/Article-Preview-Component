@@ -39,4 +39,12 @@
         grid-column: 3 / 11;
         flex-direction: row;
     }
+
+    .main-content img {
+        border-radius: 10px 0 0 10px;
+    }
+
+    .main-content .text-content {
+        border-radius: 0 10px 10px 0;
+    }
 }
