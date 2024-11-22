@@ -30,10 +30,19 @@
     cursor: pointer;
 }
 
+.profile button.clicked {
+    background-color: var(--grayish-blue);
+    z-index: 10;
+}
+
 .profile button img {
     width: 1.5rem;
     height: 1.3rem;
     transform: translateX(8%);
+}
+
+.no-show {
+    display: none;
 }
 
 .text-content > .share-wrapper {
@@ -68,6 +77,16 @@
     display: flex;
     flex-direction: row;
     gap: 1.6rem;
+}
+
+.text-content .share-options .social-links  img {
+    cursor: pointer;
+    transition: transform 0.3s ease-in;
+    will-change: transform;
+}
+
+.text-content .share-options .social-links  img:hover {
+    transform: scale(1.5);
 }
 
 @media (min-width: 23.4375rem) {
